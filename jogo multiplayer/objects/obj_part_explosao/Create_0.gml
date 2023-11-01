@@ -1,0 +1,5 @@
+/// @description
+
+player = self;
+
+
